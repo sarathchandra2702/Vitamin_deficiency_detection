@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Pillow
+numpy
+pandas
+scikit-learn
+tensorflow
+joblib
+requests
+beautifulsoup4
+selenium
+Werkzeug
+gunicorn
