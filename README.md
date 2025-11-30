@@ -108,7 +108,7 @@ Then use the web interface to input symptom data (or upload dataset) and get a v
 
 ## 👨‍💻 Author  
 **Sarath Chandra**  
-Graduate student & Machine Learning / AI enthusiast — check out my GitHub for more projects: [@sarathchandra2702](https://github.com/sarathchandra2702)
+Undergraduate student & Machine Learning / AI enthusiast — check out my GitHub for more projects: [@sarathchandra2702](https://github.com/sarathchandra2702)
 
 ---
 
